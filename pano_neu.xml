@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.10" apprev="18007" start="node1">
+  <panorama id="node1">
+    <input levelbiashidpi="1.000" height="3500" width="3500" overlap="1" leveltilesize="510" leveltileurl="s/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0">
+      <level height="3500" preload="0" width="3500" predecode="0"/>
+      <level height="1750" preload="0" width="1750" predecode="0"/>
+      <level height="875" preload="0" width="875" predecode="0"/>
+      <level height="437" preload="1" width="437" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="89.99" projection="4" tilt="0" fov="70"/>
+      <flyin pan="-179" projection="9" tilt="-70.53" fov="270"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="70" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata datetime="01.02.2021" comment="" description="360 Grad Tour" title="Szenario Hildesheim" longitude="" tags="" nodeid="node1" heading="0" latitude="" source="" copyright="mrss design" info="" author="" customnodeid=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label border="1" backgroundalpha="1" background="1" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" height="20" width="180" enabled="1" backgroundcolor="0xffffff" borderalpha="1" textalpha="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot pan="-269.05" description="" title="Szenario Hildesheim" tilt="-3.38" url="{node2}" id="Saal Mitte" target="92.4/-0.9/70.0" skinid="ht_node"/>
+      <hotspot pan="-319.15" description="" title="Table Eleven Aufsicht" tilt="-18.18" url="/s/DSC07095.jpg" id="Table Eleven" target="" skinid="ht_image"/>
+      <hotspot pan="-302.37" description="Dieser Tisch ist mein Liebling!" title="Table Eleven Detail" tilt="-23.27" url="images/DSC07141.jpg" id="Table Eleven" target="" skinid="ht_image"/>
+      <hotspot pan="-237.73" description="" title="Table Twelve Aufsicht" tilt="-13.16" url="images/DSC07127.jpg" id="Table Twelve" target="" skinid="ht_image"/>
+      <hotspot pan="-229.29" description="" title="Table Twelve Detail" tilt="-14.59" url="images/DSC07158.jpg" id="Table Twelve" target="" skinid="ht_image"/>
+      <hotspot pan="-198.07" description="" title="Table One Aufsicht" tilt="-7.8" url="images/DSC07119.jpg" id="Table One" target="" skinid="ht_image"/>
+      <hotspot pan="-201.04" description="" title="Table One Detail" tilt="-9.63" url="images/DSC07155.jpg" id="Table One" target="" skinid="ht_image"/>
+      <hotspot pan="-297.77" description="" title="Table Ten Aufsicht" tilt="-10.69" url="images/DSC07096.jpg" id="Table Ten" target="" skinid="ht_image"/>
+      <hotspot pan="-285.08" description="" title="Table Ten Detail" tilt="-11.25" url="images/DSC07142.jpg" id="Table Ten" target="" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="45" zoomout="0" softedge="150" zoomoutpause="0" type="irisroundcenter" blendcolor="0x000000" blendtime="0.5" enabled="1" zoomfov="55" zoomin="0" zoomspeed="2.01" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" contextfullscreen="1" contextprojections="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbiashidpi="1.000" height="3500" width="3500" overlap="1" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0">
+      <level height="3500" preload="0" width="3500" predecode="0"/>
+      <level height="1750" preload="0" width="1750" predecode="0"/>
+      <level height="875" preload="0" width="875" predecode="0"/>
+      <level height="437" preload="1" width="437" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata datetime="01.02.2021" comment="" description="360 Grad Tour" title="Szenario Hildesheim" longitude="" tags="Web 360 RENDER" nodeid="node2" heading="0" latitude="" source="" copyright="mrss design" info="" author="" customnodeid=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label border="1" backgroundalpha="1" background="1" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" height="20" width="180" enabled="1" backgroundcolor="0xffffff" borderalpha="1" textalpha="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot pan="-70.29" description="" title="Szenario Hildesheim" tilt="-3.42" url="{node1}" id="Eingangsbereich" target="-90.7/-5.2/70.0" skinid="ht_node"/>
+      <hotspot pan="-285.83" description="" title="Szenario Hildesheim" tilt="-3.91" url="{node3}" id="Saal Hinten" target="87.9/-4.3/70.0" skinid="ht_node"/>
+      <hotspot pan="-137.22" description="" title="Table Seven Aufsicht" tilt="-10.31" url="images/DSC07117.jpg" id="Table Seven" target="" skinid="ht_image"/>
+      <hotspot pan="-129.39" description="" title="Table Two Detail" tilt="-11.97" url="images/DSC07154.jpg" id="Table Two" target="" skinid="ht_image"/>
+      <hotspot pan="-179.78" description="" title="Table Three Aufsicht" tilt="-14.27" url="images/DSC07115.jpg" id="Table Three" target="" skinid="ht_image"/>
+      <hotspot pan="-193.8" description="" title="Table Three Detail" tilt="-14.06" url="images/DSC07153.jpg" id="Table Three" target="" skinid="ht_image"/>
+      <hotspot pan="-222.01" description="" title="Table Four Aufsicht" tilt="-9.39" url="images/DSC07111.jpg" id="Table Four" target="" skinid="ht_image"/>
+      <hotspot pan="-230.07" description="" title="Table Four Detail" tilt="-11.18" url="images/DSC07160.jpg" id="Table Four" target="" skinid="ht_image"/>
+      <hotspot pan="-16.83" description="" title="Table Nine Aufsicht" tilt="-11.83" url="images/DSC07098.jpg" id="Table Nine" target="" skinid="ht_image"/>
+      <hotspot pan="-22.58" description="" title="Table Nine Detail" tilt="-15.91" url="images/DSC07144.jpg" id="Table Nine" target="" skinid="ht_image"/>
+      <hotspot pan="-345.48" description="" title="Table Eight Aufsicht" tilt="-11.23" url="images/DSC07102.jpg" id="Table Eight" target="" skinid="ht_image"/>
+      <hotspot pan="-340.81" description="" title="Table Eight Detail" tilt="-15.62" url="images/DSC07145.jpg" id="Table Eight" target="" skinid="ht_image"/>
+      <hotspot pan="-319.83" description="" title="Table Seven Aufsicht" tilt="-8.84" url="images/DSC07105.jpg" id="Table Seven" target="" skinid="ht_image"/>
+      <hotspot pan="-311.13" description="" title="Table Seven Detail" tilt="-10.3" url="images/DSC07146.jpg" id="Table Seven" target="" skinid="ht_image"/>
+      <hotspot pan="-89.5" description="" title="Table Twelve Aufsicht" tilt="-10.82" url="images/DSC07127.jpg" id="Table Twelve" target="" skinid="ht_image"/>
+      <hotspot pan="-97.33" description="" title="Table Twelve Detail" tilt="-11.32" url="images/DSC07158.jpg" id="Table Twelve" target="" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="45" zoomout="0" softedge="150" zoomoutpause="0" type="irisroundcenter" blendcolor="0x000000" blendtime="0.5" enabled="1" zoomfov="55" zoomin="0" zoomspeed="2.01" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" contextfullscreen="1" contextprojections="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbiashidpi="1.000" height="3500" width="3500" overlap="1" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0">
+      <level height="3500" preload="0" width="3500" predecode="0"/>
+      <level height="1750" preload="0" width="1750" predecode="0"/>
+      <level height="875" preload="0" width="875" predecode="0"/>
+      <level height="437" preload="1" width="437" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata datetime="01.02.2021" comment="" description="360 Grad Tour" title="Szenario Hildesheim" longitude="" tags="Web 360 RENDER" nodeid="node3" heading="0" latitude="" source="" copyright="mrss design" info="" author="" customnodeid=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label border="1" backgroundalpha="1" background="1" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" height="20" width="180" enabled="1" backgroundcolor="0xffffff" borderalpha="1" textalpha="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot pan="-93.77" description="" title="Szenario Hildesheim" tilt="-4.73" url="{node2}" id="Saal Mitte" target="-91.2/-3.0/70.0" skinid="ht_node"/>
+      <hotspot pan="-2.68" description="" title="Table Six Aufsicht" tilt="-11.97" url="images/DSC07106.jpg" id="Table Six" target="" skinid="ht_image"/>
+      <hotspot pan="-2.64" description="" title="Table Six Detail" tilt="-19.6" url="images/DSC07147.jpg" id="Table Six" target="" skinid="ht_image"/>
+      <hotspot pan="-36.11" description="" title="Table Seven Aufsicht" tilt="-11.47" url="images/DSC07105.jpg" id="Table Seven" target="" skinid="ht_image"/>
+      <hotspot pan="-45.48" description="" title="Table Seven Detail" tilt="-14.85" url="images/DSC07146.jpg" id="Table Seven" target="" skinid="ht_image"/>
+      <hotspot pan="-155.62" description="" title="Table Four Aufsicht" tilt="-10.13" url="images/DSC07111.jpg" id="Table Four" target="" skinid="ht_image"/>
+      <hotspot pan="-147.42" description="" title="Table Four Detail" tilt="-12.51" url="images/DSC07160.jpg" id="Table Four" target="" skinid="ht_image"/>
+      <hotspot pan="-182.06" description="" title="Table Five Aufsicht" tilt="-10.5" url="images/DSC07109.jpg" id="Table Five" target="" skinid="ht_image"/>
+      <hotspot pan="-182.05" description="" title="Table Five Detail" tilt="-15.23" url="images/DSC07148.jpg" id="Table Five" target="" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="45" zoomout="0" softedge="150" zoomoutpause="0" type="irisroundcenter" blendcolor="0x000000" blendtime="0.5" enabled="1" zoomfov="55" zoomin="0" zoomspeed="2.01" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" contextfullscreen="1" contextprojections="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <masternode>
+    <userdata datetime="" comment="" description="" title="" longitude="" tags="" nodeid="master" heading="0" latitude="" source="" copyright="" info="" author="" customnodeid=""/>
+  </masternode>
+</tour>
